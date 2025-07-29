@@ -1,0 +1,7 @@
+/blog
+  ├── index.html
+  ├── style.css
+  ├── /articles
+      ├── article1.html
+      ├── article2.html
+  ├── /images (optional)
